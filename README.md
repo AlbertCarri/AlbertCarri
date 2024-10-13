@@ -1,3 +1,6 @@
+![mi imagen](/76ab38ec-c79c-4944-a1c1-53e51399d2df.webp)
+
+
 - 👋 Hi, I’m @AlbertCarri
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Javascript
