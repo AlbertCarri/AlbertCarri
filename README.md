@@ -35,10 +35,14 @@ Alberto no se queda en la teoría. Sus proyectos, como Groundhog Weather, la web
 Hoy, con una sólida base en desarrollo web, Alberto está listo para llevar su talento a nuevos desafíos. Enfocado en mejorar su presencia en LinkedIn, busca oportunidades para aplicar su conocimiento en proyectos que le permitan crecer profesionalmente y aportar soluciones reales. Su objetivo es claro: convertirse en un desarrollador clave en el mundo digital, sin perder la esencia de su creatividad y resiliencia.  
 
 ## El Mensaje de su Marca Personal
-La historia de Alberto no es solo la de un programador en formación, sino la de un creador que nunca deja de aprender y adaptarse. Su marca personal se construye sobre tres pilares:
-🔹 Resiliencia: Se reinventa y supera desafíos constantemente.
-🔹 Eficiencia: No busca soluciones complicadas, sino las más efectivas.
-🔹 Pasión: Desde la cocina hasta el código, cada proyecto lleva su sello.
+La historia de Alberto no es solo la de un programador en formación, sino la de un creador que nunca deja de aprender y adaptarse. Su marca personal se construye sobre tres pilares:  
+
+🔹 Resiliencia: Se reinventa y supera desafíos constantemente.  
+
+🔹 Eficiencia: No busca soluciones complicadas, sino las más efectivas.  
+
+🔹 Pasión: Desde la cocina hasta el código, cada proyecto lleva su sello.  
+
 El camino sigue abierto, y su próximo gran proyecto está a la vuelta de la esquina.
 
 
