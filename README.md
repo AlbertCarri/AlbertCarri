@@ -16,9 +16,10 @@
 **Mis hijos grandes, casados, mucho tiempo para pensar. Así que decidí cambiar de rumbo y retomar la programación**.  
 **Retomar es un decir, porque lo último que hice fue código Z80 a los 19 años de edad😁**.  
 
-## Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/alberto-edelmiro-carrizo-7639a186/)
-
-### Mi Storytelling 
+### Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/alberto-edelmiro-carrizo-7639a186/)  
+<br>
+<details>
+<summary><h1>Mi Storytelling 📜</h1></summary>
 
 ### De la Cocina al Código: La Historia de un Creador  
 
@@ -44,5 +45,5 @@ La historia de Alberto no es solo la de un programador en formación, sino la de
 🔹 Pasión: Desde la cocina hasta el código, cada proyecto lleva su sello.  
 
 El camino sigue abierto, y su próximo gran proyecto está a la vuelta de la esquina.
-
+</details>
 
