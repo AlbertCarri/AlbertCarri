@@ -1,4 +1,4 @@
-![mi imagen](/Header01.jpg)
+![mi imagen](/Linkedin2025.jpg)
 
 ### Quien soy?
 
