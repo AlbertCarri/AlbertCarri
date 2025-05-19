@@ -21,24 +21,17 @@
 <details>
 <summary><h1>Mi Storytelling 📜</h1></summary>
 
-### De la Cocina al Código: La Historia de un Creador  
+### 🔧 De una TK85 a Next.js: mi historia con la tecnología
 
-En un rincón de Argentina, entre aromas de comida vegana y líneas de código, nace la historia de Alberto Edelmiro Carrizo, un apasionado creador con una trayectoria única. Técnico electrónico de formación, diseñador multimedia por vocación y programador por decisión, Alberto ha sabido reinventarse una y otra vez, convirtiendo cada obstáculo en una oportunidad.
-Durante años, diseñó, reparó computadoras, equipos de radio y exploró el mundo del diseño gráfico, hasta que un día, impulsado por su espíritu autodidacta y su amor por la tecnología, decidió dar un giro radical: del diseño al desarrollo web. No fue un camino fácil, pero su disciplina y pasión lo llevaron a especializarse en Next.js, React y Tailwind CSS, convirtiéndose en un desarrollador capaz de transformar ideas en productos digitales funcionales.  
+En 1984 no había internet, ni YouTube. Tenía menos de 13 años y me fascinaban las computadoras. Con una beca por buenas notas me compré mi primera: una TK85. Venía con un manual para tipear programas línea por línea. Más adelante, con una Commodore 64C y un manual de Z80, escribía código en direcciones de memoria porque no tenía ensamblador... así que me hice uno.
 
-### UmamiVeg y la Fusión de sus Pasiones
-El emprendimiento de comida vegana que fundó, UmamiVeg, no solo es una expresión de su estilo de vida, sino también el laboratorio donde prueba y mejora sus habilidades técnicas. Lo que comenzó como una necesidad gastronómica se convirtió en una oportunidad para aplicar el desarrollo web en el mundo real. Su CMS personalizado, ahora en funcionamiento, ha facilitado la gestión de menús y pedidos, recibiendo elogios por su eficiencia.  
+Me recibí de técnico electrónico, trabajé en Alcatel-Lucent como técnico senior, me compré una 486XT. Luego vino la vida: casarme, hijos, hiperinflación, desempleo, construcción de mi casa a pulmón. Y aunque la tecnología quedó en pausa, seguí creando: hice diseño 3D, participé en concursos de animación, trabajé 15 años en diseño digital hasta que me sentí estancado.
 
-### Un Desarrollador con Enfoque Práctico
-Alberto no se queda en la teoría. Sus proyectos, como Groundhog Weather, la web de cotización del dólar y su sistema de gestión para restaurantes, reflejan su enfoque práctico: resolver problemas con código limpio y funcional. Su habilidad para optimizar procesos y simplificar tareas lo ha llevado a explorar soluciones innovadoras, como la generación de enlaces automáticos de WhatsApp para pedidos.  
+En 2021 fundamos UmamiVeg con mi familia. Y hace dos años retomé la programación. Aprendí Next.js, Tailwind, Supabase. Desarrollé un CMS propio, una app para restaurantes con menú digital, y sigo creando cosas todos los días.
 
-### La Búsqueda de Nuevas Oportunidades
-Hoy, con una sólida base en desarrollo web, Alberto está listo para llevar su talento a nuevos desafíos. Enfocado en mejorar su presencia en LinkedIn, busca oportunidades para aplicar su conocimiento en proyectos que le permitan crecer profesionalmente y aportar soluciones reales. Su objetivo es claro: convertirse en un desarrollador clave en el mundo digital, sin perder la esencia de su creatividad y resiliencia.  
+Hoy sé que mi motor es la creatividad, la tecnología y el amor por aprender cosas nuevas y difíciles.
 
-### El Mensaje de su Marca Personal
-La historia de Alberto no es solo la de un programador en formación, sino la de un creador que nunca deja de aprender y adaptarse. Su marca personal se construye sobre tres pilares:  
-
-🔹 Resiliencia: Se reinventa y supera desafíos constantemente.  
+👉 Si estás buscando a alguien que no solo sabe, sino que ama lo que hace y no se rinde fácil, me encantaría conectar.
 
 🔹 Eficiencia: No busca soluciones complicadas, sino las más efectivas.  
 
