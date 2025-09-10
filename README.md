@@ -6,7 +6,7 @@
 - 👀 A mis 52 años, y después de pasar por muchas profesiones, retomé la programación.
 - 🌱 Actualmente estoy especializandome en HTML, CSS, Javascript, React.js, Next.js y Tailwind CSS
 - 💞️ Obvio que me gustaría trabajar de esto y demostrar que para aprender cosas nuevas no hay límites de edad.
-- 📫 Si quieres contactarme este es mi mail "wottan@live.com.ar"
+- 📫 Si quieres contactarme este es mi mail.
 
 ### Mis experiencias:
 
