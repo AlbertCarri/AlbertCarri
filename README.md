@@ -19,7 +19,21 @@
 ### Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/alberto-edelmiro-carrizo-7639a186/)  
 <br>
 
-<h1>Acerca de mi📜</h1>
+## Stack actual (2026)
+- Frontend: Next.js (App Router), React, TypeScript, Tailwind CSS + shadcn/ui
+- Backend/DB: Supabase (Auth, Postgres, Storage, Edge Functions)
+- Pagos: Integrando Mercado Pago (suscripciones recurring)
+- En progreso: SaaS propio con suscripciones y dashboard
+
+## Proyectos en desarrollo
+- SaaS en Next.js + Supabase + Mercado Pago (repo privado por ahora, pero demo disponible pronto)
+- CMS para UmamiVeg: https://github.com/AlbertCarri/cms-supabase (Supabase + CRUD real para negocio)
+
+Busco colaboraciones, freelance o posiciones remotas en frontend/SaaS.
+
+---
+
+<h1>Mi camino</h1>
 
 Soy una persona curiosa, creativa y amante de la tecnología desde que tengo memoria. Antes de empezar la secundaria ya armaba circuitos con lo que encontraba en revistas y libros de biblioteca.
 
@@ -44,16 +58,3 @@ Hoy mi motor sigue siendo el mismo de siempre: crear, aprender, resolver problem
 
 Hoy busco algo muy concreto: trabajar con calma en lo que me gusta, aportar valor real a un equipo y construir estabilidad a largo plazo. No persigo ser “famoso” en el mundo tech; me interesa hacer bien mi trabajo, aprender todos los días y sumar en proyectos que mejoren la vida de las personas.
 Me gustaría seguir creciendo en roles de desarrollo front-end (React / Next.js) en entornos donde se valoren la transparencia, el respeto y el trabajo bien hecho.
-
-## Stack actual (2026)
-- Frontend: Next.js (App Router), React, TypeScript, Tailwind CSS + shadcn/ui
-- Backend/DB: Supabase (Auth, Postgres, Storage, Edge Functions)
-- Pagos: Integrando Mercado Pago (suscripciones recurring)
-- En progreso: SaaS propio con suscripciones y dashboard
-
-## Proyectos en desarrollo
-- SaaS en Next.js + Supabase + Mercado Pago (repo privado por ahora, pero demo disponible pronto)
-- CMS para UmamiVeg: https://github.com/AlbertCarri/cms-supabase (Supabase + CRUD real para negocio)
-
-Busco colaboraciones, freelance o posiciones remotas en frontend/SaaS.
-
