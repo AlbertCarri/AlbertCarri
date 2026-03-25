@@ -1,4 +1,4 @@
-![mi imagen](/Linkedin-2025-hexagonos.jpg)
+![mi imagen](/banner-facebook.png)
 
 ### Quien soy?
 
